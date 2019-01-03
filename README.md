@@ -4,7 +4,6 @@ Demo code for a Gaussian-Bernoulli Restricted Boltzmann Machine that
 can train on highly sparse data using a collaborative filtering scheme and reconstruct training examples with missing values.
 
 ![gbrbm](https://user-images.githubusercontent.com/12631256/50627549-c7468580-0ee8-11e9-9ea3-d2c784a4b2bf.png)
-
 Requirements:
   - python 2.7
   - theano + Nvidia GPU with CUDA
